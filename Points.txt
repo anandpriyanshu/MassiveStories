@@ -6,3 +6,10 @@ npm install appwrite
 npm  react-router-dom
 npm i @tinymce/tinymce-react
 npm i html-react-parser
+
+
+//
+
+create .env file
+create project in Appwrite and set the databse , storage
+create conf folder
