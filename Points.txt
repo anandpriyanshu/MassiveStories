@@ -1,0 +1,8 @@
+Installation
+
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install appwrite
+npm  react-router-dom
+npm i @tinymce/tinymce-react
+npm i html-react-parser
