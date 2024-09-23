@@ -1,4 +1,4 @@
-Installation
+Dependency Installation
 
 npm install @reduxjs/toolkit
 npm install react-redux
@@ -8,8 +8,9 @@ npm i @tinymce/tinymce-react
 npm i html-react-parser
 
 
-//
+//Steps
 
 create .env file
 create project in Appwrite and set the databse , storage
 create conf folder
+create appwrite folder & authjs file. write all async methods for authentication 
