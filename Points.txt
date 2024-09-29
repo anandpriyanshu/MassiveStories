@@ -29,3 +29,7 @@ create container component
 create Logoutbtn component and  implement logout methd from authjs and authSLicejs
 
 Create LogoutBtn compnent & Implement Navigation logic in Header component
+
+Create common button in componentss 
+
+Create commom Input component using forwardRef
