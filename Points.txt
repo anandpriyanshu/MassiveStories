@@ -14,3 +14,11 @@ create .env file
 create project in Appwrite and set the databse , storage
 create conf folder
 create appwrite folder & authjs file. write all async methods for authentication 
+create store and authsLice and connect to application
+Write logic in Appjsx to check whether user is login or not. 
+
+create Header, Footer and Logojsx
+
+create container component
+
+create Logoutbtn component and  implement logout methd from authjs and authSLicejs
