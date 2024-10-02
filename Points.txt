@@ -35,3 +35,5 @@ Create common button in componentss
 Create commom Input component using forwardRef
 
 Create Select component and loop options, conditionaly(option) 
+
+Create PostCard component. Implement Image preview from appwrite/config.
