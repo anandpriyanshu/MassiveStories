@@ -41,3 +41,6 @@ Create PostCard component. Implement Image preview from appwrite/config.
 Create Login component. Design Form using React hook form. Based on userData login the user
 
 Create Signup component. Design Form using React hook form. Based on userData Signup the user
+
+
+Create AuthLayout component. Navigate the user on the basis of authStatus
