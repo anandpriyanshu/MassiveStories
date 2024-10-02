@@ -38,4 +38,6 @@ Create Select component and loop options, conditionaly(option)
 
 Create PostCard component. Implement Image preview from appwrite/config.
 
-Create Login component. Design Form using React hook form
+Create Login component. Design Form using React hook form. Based on userData login the user
+
+Create Signup component. Design Form using React hook form. Based on userData Signup the user
