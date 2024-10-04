@@ -42,5 +42,7 @@ Create Login component. Design Form using React hook form. Based on userData log
 
 Create Signup component. Design Form using React hook form. Based on userData Signup the user
 
-
 Create AuthLayout component. Navigate the user on the basis of authStatus
+
+Create PostForm componenet. Design and Implement create post from using react hook from
+
