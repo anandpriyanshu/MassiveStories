@@ -50,6 +50,8 @@ Create Login and Signup component in pages. Import both in indexJS
 
 Create Addpost and All, post in pages. 
 
+Create AddForm page
+
 Create EditPost and navigate to '/' on the basis of post.
 
-Create EditPost page. Based on thye posts show PostCards
+Create Post in pages. Based on post Delete and Edit the Post. Import AuthLayout in indexjs 
