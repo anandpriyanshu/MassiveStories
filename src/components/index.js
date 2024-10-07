@@ -7,8 +7,10 @@ import Input from './Input'
 import Select from './Select'
 import Signup from "./Signup";
 import Login from "./Login";
+import PostForm from "./PostForm/Post-form";
+import PostCard from './PostCard'
 
 
 import ReacttimeEditor from './ReactImeEditor'
 
-export { Header, Footer, Container, Logo, LogoutBtn, Input, ReacttimeEditor, Select, Signup, Login };
+export { Header, Footer, Container, Logo, LogoutBtn, Input, ReacttimeEditor, Select, Signup, Login, PostForm, PostCard };

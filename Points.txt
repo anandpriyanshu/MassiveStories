@@ -46,3 +46,6 @@ Create AuthLayout component. Navigate the user on the basis of authStatus
 
 Create PostForm componenet. Design and Implement create post from using react hook from
 
+Create Login and Signup component in pages. Import both in indexJS
+
+Create Addpost and All, post in pages. 
