@@ -55,3 +55,5 @@ Create AddForm page
 Create EditPost and navigate to '/' on the basis of post.
 
 Create Post in pages. Based on post Delete and Edit the Post. Import AuthLayout in indexjs 
+
+Create routes based on pages
