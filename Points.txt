@@ -49,3 +49,7 @@ Create PostForm componenet. Design and Implement create post from using react ho
 Create Login and Signup component in pages. Import both in indexJS
 
 Create Addpost and All, post in pages. 
+
+Create EditPost and navigate to '/' on the basis of post.
+
+Create EditPost page. Based on thye posts show PostCards
