@@ -61,3 +61,5 @@ Create routes based on pages
 fix import Signup in mainjsx and dispatch logout() method in LogoutBtn component
 
 Import Button in indexjs
+
+fix configjs and Post-form component
