@@ -11,5 +11,6 @@ import PostForm from "./PostForm/Post-form";
 import PostCard from './PostCard'
 import AuthLayout from './AuthLayout'
 import ReacttimeEditor from './ReactImeEditor'
+import Button from "./Button";
 
-export { Header, Footer, Container, Logo, LogoutBtn, Input, ReacttimeEditor, Select, Signup, Login, PostForm, PostCard, AuthLayout };
+export { Header, Footer, Container, Logo, LogoutBtn, Input, ReacttimeEditor, Select, Signup, Login, PostForm, PostCard, AuthLayout, Button };
